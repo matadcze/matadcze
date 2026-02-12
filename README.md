@@ -85,11 +85,6 @@ I share technical articles, reviews, and lessons learned at **[mateusz.review](h
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matadcze&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matadcze&layout=compact&theme=github_dark&hide_border=true" height="170" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matadcze&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
