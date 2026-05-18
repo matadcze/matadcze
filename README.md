@@ -2,8 +2,6 @@
 
 Senior Backend Developer · Founder of [Circla](https://www.withcircla.com)
 
-I build production AI systems in Python. Currently turning long-form video into viral short clips with Whisper, Claude, and FFmpeg.
-
 ---
 
 **Now**
